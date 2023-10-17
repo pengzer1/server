@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ServletTest/src/필기.txt&apos; to &apos;Servlet필기.txt&apos;" description="Rename resource &apos;필기.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/필기.txt" name="Servlet필기.txt" stamp="1697512265965" updateReferences="true"/>
+</session>
