@@ -55,3 +55,19 @@ MVC 기반
 	
 	- com.test.memo.model > MeMoDTO.java
 	- com.test.memo.dto
+	
+	
+	- JSTL 설치
+	- WEB-INF > lib > jstl-1.2.jar 복사
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
