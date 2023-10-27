@@ -1,0 +1,67 @@
+
+- com.test.ajax
+- com.test.ajax.controller
+- com.test.ajax.repository
+- com.test.ajax.model
+
+- WEB-INF > lib > ojdbc6.jar
+				> jstl-1.2.jar
+				> lombok.jar	// 예정
+				> json			// 예정
+				
+Ajax, Asynchronous JavaScript and XML
+- 자바스크립트 기술
+- 비동기 방식으로 자바스크립트를 사용해서 서버와 데이터를 통신하는 기술(XML 형식으로 주고 받음)
+
+
+- com.test.ajax.controller > Ex01.java
+						   > Ex01Data.java
+- com.test.ajax.repository > AjaxDAO.java
+- views > ex01.jsp
+
+
+- com.test.controller > Ex02.java
+					  > Ex02Data.java
+- views > ex02.jsp
+		> ex02data.jsp
+
+
+- com.test.controller > Ex03.java
+					  > Ex03Data.java
+- views > ex03.jsp
+		> ex03data.jsp
+
+- com.test.controller > Ex04.java
+					  > Ex04Data.java
+- views > ex04.jsp
+
+- com.test.controller > Ex05.java
+					  > Ex05Data.java
+- views > ex05.jsp
+
+- com.test.controller > Ex06.java
+					  > Ex06Data.java
+- views > ex06.jsp
+
+- com.test.controller > Ex07.java
+					  > Ex07Data.java
+- views > ex07.jsp
+
+
+- com.test.controller > Ex08.java
+- com.test.ajax.service > List.java
+						> Add.java
+						> Edit.java
+- com.test.ajax.model	> AddressDTO.java
+- views > ex08.jsp
+
+
+
+
+
+
+
+
+
+
+
