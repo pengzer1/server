@@ -316,3 +316,93 @@
 10월 24, 2023 17:11:09.785 ERROR: No matching issuer found
 10월 24, 2023 17:11:09.785 
 10월 24, 2023 17:11:09.786 
+
+10월 31, 2023 09:08:50.162 NEW SESSION
+10월 31, 2023 09:08:50.162 [15964:7012:1031/090850.159:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+10월 31, 2023 09:08:50.163 [15964:7012:1031/090850.160:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 31, 2023 09:08:50.163 [15964:7012:1031/090850.160:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+10월 31, 2023 09:08:50.164 [15964:7012:1031/090850.163:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+10월 31, 2023 09:09:45.16 [15964:7012:1031/090945.015:ERROR:CONSOLE(1)] "Extension server error: Operation failed: http://localhost:8090/toy/unregister.do has no execution context", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+10월 31, 2023 09:09:53.365 [15964:7012:1031/090953.365:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+10월 31, 2023 09:09:53.366 [15964:7012:1031/090953.365:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 31, 2023 09:09:53.366 [15964:7012:1031/090953.366:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+10월 31, 2023 09:09:53.373 [15964:7012:1031/090953.373:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+10월 31, 2023 09:09:56.679 [15964:7012:1031/090956.679:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+10월 31, 2023 09:09:56.679 [15964:7012:1031/090956.679:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 31, 2023 09:09:56.679 [15964:7012:1031/090956.679:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+10월 31, 2023 09:09:56.680 [15964:7012:1031/090956.679:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+10월 31, 2023 09:09:56.680 [15964:7012:1031/090956.679:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 31, 2023 09:09:56.680 [15964:7012:1031/090956.679:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+10월 31, 2023 09:09:56.681 [15964:7012:1031/090956.679:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+10월 31, 2023 09:17:21.490 [15964:7012:1031/091721.490:ERROR:device_event_log_impl.cc(225)] [09:17:21.490] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+10월 31, 2023 09:19:18.619 [15964:1228:1031/091918.619:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 09:19:18.620 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 09:19:18.620 ERROR: Failed parsing Certificate
+10월 31, 2023 09:19:18.620 
+10월 31, 2023 09:19:18.700 [15964:1228:1031/091918.700:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 09:19:18.700 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 09:19:18.701 ERROR: Failed parsing Certificate
+10월 31, 2023 09:19:18.701 
+10월 31, 2023 09:19:19.104 [15964:6492:1031/091919.104:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 09:19:19.104 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 09:19:19.105 ERROR: Failed parsing Certificate
+10월 31, 2023 09:19:19.105 
+10월 31, 2023 09:19:19.588 [15964:6492:1031/091919.588:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 09:19:19.589 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 09:19:19.589 ERROR: Failed parsing Certificate
+10월 31, 2023 09:19:19.589 
+10월 31, 2023 09:19:19.681 [15964:6492:1031/091919.681:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 09:19:19.681 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 09:19:19.681 ERROR: Failed parsing Certificate
+10월 31, 2023 09:19:19.682 
+10월 31, 2023 09:19:22.224 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 31, 2023 09:19:30.53 [15964:7012:1031/091930.053:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+10월 31, 2023 09:27:00.928 [15964:7012:1031/092700.928:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+10월 31, 2023 09:27:00.929 [15964:7012:1031/092700.928:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 31, 2023 09:27:00.929 [15964:7012:1031/092700.928:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+10월 31, 2023 09:27:00.930 [15964:7012:1031/092700.928:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+10월 31, 2023 09:27:00.930 [15964:7012:1031/092700.928:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 31, 2023 09:27:00.930 [15964:7012:1031/092700.928:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+10월 31, 2023 09:27:00.939 [15964:7012:1031/092700.939:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+10월 31, 2023 09:35:25.817 [15964:7012:1031/093525.816:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+10월 31, 2023 09:35:25.818 [15964:7012:1031/093525.816:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+10월 31, 2023 09:35:25.818 [15964:7012:1031/093525.816:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+10월 31, 2023 09:35:25.822 [15964:7012:1031/093525.821:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+10월 31, 2023 09:44:45.673 [15964:7012:1031/094445.673:ERROR:CONSOLE(1)] "Extension server error: Operation failed: http://localhost:8090/toy/user/info.do has no execution context", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+10월 31, 2023 09:44:45.678 [15964:7012:1031/094445.677:ERROR:CONSOLE(1)] "Received error with code E_FAILED while checking if react has loaded: "Operation failed: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+10월 31, 2023 10:13:09.832 [15964:6492:1031/101309.832:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 10:13:09.833 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 10:13:09.833 ERROR: Failed parsing Certificate
+10월 31, 2023 10:13:09.833 
+10월 31, 2023 10:13:39.24 [15964:6492:1031/101339.023:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 10:13:39.25 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 10:13:39.25 ERROR: Failed parsing Certificate
+10월 31, 2023 10:13:39.26 
+10월 31, 2023 10:13:40.151 [15964:6492:1031/101340.150:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 10:13:40.152 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 10:13:40.153 ERROR: Failed parsing Certificate
+10월 31, 2023 10:13:40.153 
+10월 31, 2023 10:43:25.91 [15964:1228:1031/104325.091:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 10:43:25.92 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 10:43:25.92 ERROR: Failed parsing Certificate
+10월 31, 2023 10:43:25.93 
+10월 31, 2023 10:43:26.386 [15964:1228:1031/104326.385:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 10:43:26.386 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 10:43:26.387 ERROR: Failed parsing Certificate
+10월 31, 2023 10:43:26.388 
+10월 31, 2023 11:00:49.344 [15964:11996:1031/110049.343:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+10월 31, 2023 11:07:58.689 [15964:6492:1031/110758.688:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 11:07:58.689 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 11:07:58.689 ERROR: Failed parsing Certificate
+10월 31, 2023 11:07:58.689 
+10월 31, 2023 11:07:59.648 [15964:6492:1031/110759.647:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 11:07:59.648 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 11:07:59.648 ERROR: Failed parsing Certificate
+10월 31, 2023 11:07:59.649 
+10월 31, 2023 11:14:28.191 [15964:7012:1031/111428.191:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+10월 31, 2023 11:14:47.568 [15964:6492:1031/111447.568:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+10월 31, 2023 11:14:47.569 ERROR: Couldn't read tbsCertificate as SEQUENCE
+10월 31, 2023 11:14:47.569 ERROR: Failed parsing Certificate
+10월 31, 2023 11:14:47.569 
+10월 31, 2023 11:25:51.285 [15964:7012:1031/112551.285:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+10월 31, 2023 12:02:49.451 [15964:11996:1031/120249.451:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
